@@ -1,0 +1,209 @@
+{
+  "main": {
+    "id": "c6ec021e3b50a3a8",
+    "type": "split",
+    "children": [
+      {
+        "id": "d7be884dc581eca6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "11c8350287636573",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nueva pestaña"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "62cfd16689ce67dc",
+    "type": "split",
+    "children": [
+      {
+        "id": "3da6365023ec64ca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a2907941624dc558",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "799ed5da7eae95e5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "cb802cca53dd2a8d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b1d6e3e9e0840f83",
+    "type": "split",
+    "children": [
+      {
+        "id": "5b4e3bc44a33efa7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3ca7410c6546208f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes"
+            }
+          },
+          {
+            "id": "99a875eb2a8fe3a2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes"
+            }
+          },
+          {
+            "id": "2195c897e141e9cb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "bb088f24c7a50220",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas las propiedades"
+            }
+          },
+          {
+            "id": "184127b6b607c68c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false
+    }
+  },
+  "active": "11c8350287636573",
+  "lastOpenFiles": [
+    "ARCO 5 - EL ULTIMO ASIENTO/Capitulo 43 - Me Quitaron Mi Lugar.md",
+    "PERSONAJES - Guia principal.md",
+    "BIBLIA DE LA NOVELA/08 - Continuidad y pendientes.md",
+    "BIBLIA DE LA NOVELA/07 - Guia para generar capitulos con IA.md",
+    "BIBLIA DE LA NOVELA/06 - Indice de capitulos.md",
+    "BIBLIA DE LA NOVELA/04 - Mundo, Arena y Resonancia.md",
+    "BIBLIA DE LA NOVELA/02 - Personajes principales.md",
+    "BIBLIA DE LA NOVELA/03 - Personajes secundarios.md",
+    "BIBLIA DE LA NOVELA/01 - Concepto general y tono.md",
+    "BIBLIA DE LA NOVELA/00 - Como usar esta biblia.md",
+    "BIBLIA DE LA NOVELA/05 - Resumen de arcos.md",
+    "ARCO 7 - LA GUERRA POR LA LUNA/Epilogo - Notas.md",
+    "ARCO 7 - LA GUERRA POR LA LUNA/Epilogo - La Chica de las Estrellas.md",
+    "ARCO 7 - LA GUERRA POR LA LUNA/Capitulo 69 - Notas.md",
+    "ARCO 7 - LA GUERRA POR LA LUNA/Capitulo 69 - Hasta Volver a Verte.md",
+    "ARCO 7 - LA GUERRA POR LA LUNA/Capitulo 68 - Notas.md",
+    "ARCO 7 - LA GUERRA POR LA LUNA/Capitulo 68 - El Ultimo Asiento Frente a la Arena.md",
+    "ARCO 7 - LA GUERRA POR LA LUNA/Capitulo 67 - Resonancia Total.md",
+    "ARCO 7 - LA GUERRA POR LA LUNA/Capitulo 67 - Notas.md",
+    "ARCO 7 - LA GUERRA POR LA LUNA/Capitulo 66 - Notas.md",
+    "ARCO 7 - LA GUERRA POR LA LUNA/Capitulo 66 - La Batalla de la Luna.md",
+    "ARCO 7 - LA GUERRA POR LA LUNA/Capitulo 65 - Notas.md",
+    "ARCO 7 - LA GUERRA POR LA LUNA/Capitulo 65 - La Confesion Que Llego Tarde.md",
+    "ARCO 7 - LA GUERRA POR LA LUNA/Capitulo 64 - Quedate En Mi Planeta.md",
+    "ARCO 7 - LA GUERRA POR LA LUNA/Capitulo 64 - Notas.md",
+    "ARCO 7 - LA GUERRA POR LA LUNA/Capitulo 63 - Notas.md",
+    "ChatGPT Image 26 may 2026, 14_11_52.png"
+  ]
+}
