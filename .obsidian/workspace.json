@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "d7be884dc581eca6",
+        "id": "6db7b4a3fa7a632a",
         "type": "tabs",
         "children": [
           {
-            "id": "11c8350287636573",
+            "id": "0ea6df5af0529623",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "BIBLIA DE LA NOVELA/07 - Guia para generar capitulos con IA.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "title": "07 - Guia para generar capitulos con IA"
             }
           }
         ]
@@ -37,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Explorador de archivos"
@@ -176,34 +182,36 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "11c8350287636573",
+  "active": "0ea6df5af0529623",
   "lastOpenFiles": [
-    "ARCO 5 - EL ULTIMO ASIENTO/Capitulo 43 - Me Quitaron Mi Lugar.md",
-    "PERSONAJES - Guia principal.md",
     "BIBLIA DE LA NOVELA/08 - Continuidad y pendientes.md",
     "BIBLIA DE LA NOVELA/07 - Guia para generar capitulos con IA.md",
     "BIBLIA DE LA NOVELA/06 - Indice de capitulos.md",
-    "BIBLIA DE LA NOVELA/04 - Mundo, Arena y Resonancia.md",
-    "BIBLIA DE LA NOVELA/02 - Personajes principales.md",
-    "BIBLIA DE LA NOVELA/03 - Personajes secundarios.md",
+    "BIBLIA DE LA NOVELA/05 - Resumen de arcos.md",
     "BIBLIA DE LA NOVELA/01 - Concepto general y tono.md",
     "BIBLIA DE LA NOVELA/00 - Como usar esta biblia.md",
-    "BIBLIA DE LA NOVELA/05 - Resumen de arcos.md",
-    "ARCO 7 - LA GUERRA POR LA LUNA/Epilogo - Notas.md",
-    "ARCO 7 - LA GUERRA POR LA LUNA/Epilogo - La Chica de las Estrellas.md",
-    "ARCO 7 - LA GUERRA POR LA LUNA/Capitulo 69 - Notas.md",
-    "ARCO 7 - LA GUERRA POR LA LUNA/Capitulo 69 - Hasta Volver a Verte.md",
-    "ARCO 7 - LA GUERRA POR LA LUNA/Capitulo 68 - Notas.md",
-    "ARCO 7 - LA GUERRA POR LA LUNA/Capitulo 68 - El Ultimo Asiento Frente a la Arena.md",
-    "ARCO 7 - LA GUERRA POR LA LUNA/Capitulo 67 - Resonancia Total.md",
-    "ARCO 7 - LA GUERRA POR LA LUNA/Capitulo 67 - Notas.md",
-    "ARCO 7 - LA GUERRA POR LA LUNA/Capitulo 66 - Notas.md",
-    "ARCO 7 - LA GUERRA POR LA LUNA/Capitulo 66 - La Batalla de la Luna.md",
-    "ARCO 7 - LA GUERRA POR LA LUNA/Capitulo 65 - Notas.md",
-    "ARCO 7 - LA GUERRA POR LA LUNA/Capitulo 65 - La Confesion Que Llego Tarde.md",
-    "ARCO 7 - LA GUERRA POR LA LUNA/Capitulo 64 - Quedate En Mi Planeta.md",
-    "ARCO 7 - LA GUERRA POR LA LUNA/Capitulo 64 - Notas.md",
-    "ARCO 7 - LA GUERRA POR LA LUNA/Capitulo 63 - Notas.md",
-    "ChatGPT Image 26 may 2026, 14_11_52.png"
+    "ARCO 1 - EL CIELO ANTES DE ROMPERSE/Capitulo 12 - El Cielo Se Rompio.md",
+    "ARCO 1 - EL CIELO ANTES DE ROMPERSE/Capitulo 11 - Algo Se Esta Acercando.md",
+    "ARCO 1 - EL CIELO ANTES DE ROMPERSE/Capitulo 10 - La Noche Demasiado Silenciosa.md",
+    "ARCO 1 - EL CIELO ANTES DE ROMPERSE/Capitulo 09 - La Promesa de Verano.md",
+    "ARCO 1 - EL CIELO ANTES DE ROMPERSE/Capitulo 08 - El Dia Mas Normal del Mundo.md",
+    "ARCO 1 - EL CIELO ANTES DE ROMPERSE/Capitulo 07 - Senales Sobre la Luna.md",
+    "ARCO 1 - EL CIELO ANTES DE ROMPERSE/Capitulo 06 - Lo Que Nunca Pudimos Decir.md",
+    "ARCO 1 - EL CIELO ANTES DE ROMPERSE/Capitulo 05 - Mi Familia Se Va a Mudar.md",
+    "ARCO 1 - EL CIELO ANTES DE ROMPERSE/Capitulo 04 - La Clasificacion Invisible.md",
+    "ARCO 1 - EL CIELO ANTES DE ROMPERSE/Capitulo 03 - El Chico que Nunca Terminaba las Peleas.md",
+    "ARCO 1 - EL CIELO ANTES DE ROMPERSE/Capitulo 02 - La Idiota de la Casa de al Lado.md",
+    "ARCO 1 - EL CIELO ANTES DE ROMPERSE/Capitulo 01 - Antes del Cielo Roto.md",
+    "ARCO 1 - EL CIELO ANTES DE ROMPERSE/Capitulo 01 - Notas.md",
+    "BIBLIA DE LA NOVELA/04 - Mundo, Arena y Resonancia.md",
+    "BIBLIA DE LA NOVELA/03 - Personajes secundarios.md",
+    "BIBLIA DE LA NOVELA/02 - Personajes principales.md",
+    "PERSONAJES - Guia principal.md",
+    "ChatGPT Image 26 may 2026, 14_16_05 (2).png",
+    "ChatGPT Image 26 may 2026, 14_16_05 (1).png",
+    "ChatGPT Image 26 may 2026, 14_11_52.png",
+    "ARCO 2 - LOS VISITANTES DEL CIELO/Capitulo 18 - Yo No Queria Estar Aqui.md",
+    "ARCO 2 - LOS VISITANTES DEL CIELO/Capitulo 17 - Error de Seleccion.md",
+    "ARCO 2 - LOS VISITANTES DEL CIELO/Capitulo 16 - Los Mas Cercanos a la Arena.md"
   ]
 }

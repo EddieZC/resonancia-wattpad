@@ -3,26 +3,26 @@ PERSONAJES PRINCIPALES
 
 REN AIZAKI
 
-Edad: 18 anos.
+Edad: 18 años.
 Rol: Protagonista principal.
 Familia: Hijo de Takumi y Miyako. Hermano mayor de Yui.
-Vinculos importantes: Aoi Kanzaki, Lyra, Mika, Haru.
+Vínculos importantes: Aoi Kanzaki, Lyra, Mika, Haru.
 
 Personalidad:
-Ren es tranquilo, reservado y observador. Evita llamar la atencion. Cuando hace algo impresionante, intenta minimizarlo con frases como "no fue nada". No es frio; siente mucho, pero no sabe expresarlo sin esconderse detras del silencio o del humor seco.
+Ren es tranquilo, reservado y observador. Evita llamar la atención. Cuando hace algo impresionante, intenta minimizarlo con frases como "no fue nada". No es frio; siente mucho, pero no sabe expresarlo sin esconderse detrás del silencio o del humor seco.
 
 Habilidades:
 - Defensa personal avanzada.
-- Reflejos rapidos.
+- Reflejos rápidos.
 - Lectura corporal.
-- Improvisacion.
+- Improvisación.
 - Estrategia y videojuegos.
-- Analisis de patrones.
-- Resonancia anomala / lectura bloqueada.
+- Análisis de patrones.
+- Resonancia anómala / lectura bloqueada.
 
 Aficiones:
 - Videojuegos competitivos.
-- Foros tacticos.
+- Foros tácticos.
 - Pasar tiempo en casa.
 - Evitar problemas, aunque termina metido en todos.
 
@@ -32,23 +32,23 @@ Debilidades:
 - No sabe pedir ayuda.
 - Tiende a proteger a otros sin pensar en si mismo.
 
-Evolucion:
-Empieza como chico que quiere ser espectador. Luego la Arena lo arrastra al centro. Aprende que esconderse tambien es decidir, y que pelear con control puede ser una forma de proteger.
+Evolución:
+Empieza como chico que quiere ser espectador. Luego la Arena lo arrastra al centro. Aprende que esconderse también es decidir, y que pelear con control puede ser una forma de proteger.
 
-Frase guia:
+Frase guía:
 "Si lo hago grande, luego esperan que lo repita."
 
 ---
 
 AOI KANZAKI
 
-Edad: 18 anos.
-Rol: Amiga de infancia de Ren. Interes romantico secundario fuerte. Ancla emocional humana.
+Edad: 18 años.
+Rol: Amiga de infancia de Ren. Interés romántico secundario fuerte. Ancla emocional humana.
 Familia: Vive al lado de Ren. Su madre cuida a su abuela.
-Vinculos importantes: Ren, familia Aizaki, futura tension con Lyra.
+Vínculos importantes: Ren, familia Aizaki, futura tensión con Lyra.
 
 Personalidad:
-Aoi es frontal, intensa, mandona de forma carinosa y muy perceptiva. Molesta a Ren porque lo conoce demasiado bien. Es celosa sin admitirlo y valiente cuando alguien que quiere esta en peligro. Le cuesta confesarse porque teme perder lo que ya tiene con Ren.
+Aoi es frontal, intensa, mandona de forma cariñosa y muy perceptiva. Molesta a Ren porque lo conoce demasiado bien. Es celosa sin admitirlo y valiente cuando alguien que quiere esta en peligro. Le cuesta confesarse porque teme perder lo que ya tiene con Ren.
 
 Habilidades:
 - Lectura emocional.
@@ -60,8 +60,8 @@ Habilidades:
 Aficiones / tropes:
 - Entra a casa de Ren sin tocar.
 - Le lleva comida.
-- Discute por tonterias.
-- Lo regana cuando se esconde.
+- Discute por tonterías.
+- Lo regaña cuando se esconde.
 - Se pone celosa de Lyra sin querer admitirlo.
 
 Debilidades:
@@ -76,7 +76,7 @@ Frase guia:
 
 LYRA
 
-Edad: Equivalente a 18-19 anos humanos.
+Edad: Equivalente a 18-19 años humanos.
 Rol: Protagonista romantica principal futura. Alienigena clave.
 Origen: Civilizacion alienigena vinculada a la Arena y al meteorito lunar.
 Vinculos importantes: Ren, Aoi, faccion alienigena, Corazon del Meteorito.

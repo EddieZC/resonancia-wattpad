@@ -7,7 +7,7 @@ Funcion:
 Presentar la vida normal de Ren, Aoi y la familia Aizaki antes de la llegada alienigena.
 
 Resumen:
-Ren Aizaki vive una rutina escolar con su amiga de infancia Aoi Kanzaki. Se muestra que Ren sabe pelear, pero evita demostrarlo. Se presenta la familia Aizaki: Takumi, Miyako y Yui. La posible mudanza de la familia crea tension emocional con Aoi, que teme no confesar sus sentimientos a tiempo. Mientras tanto, aparecen senales extranas cerca de la Luna. El arco termina cuando naves alienigenas aparecen y el cielo se rompe.
+Ren Aizaki vive una rutina escolar con su amiga de infancia Aoi Kanzaki. Se muestra que Ren sabe pelear, pero evita demostrarlo. Se presenta la familia Aizaki: Takumi, Miyako y Yui. La posible mudanza de la familia crea tensión emocional con Aoi, que teme no confesar sus sentimientos a tiempo. Mientras tanto, aparecen señales extrañas cerca de la Luna. El arco termina cuando naves alienígenas aparecen y el cielo se rompe.
 
 Climax:
 Mensaje global: "Civilizacion terrestre. Evaluacion iniciada."

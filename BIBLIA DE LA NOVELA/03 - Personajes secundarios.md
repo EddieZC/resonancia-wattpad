@@ -7,7 +7,7 @@ Edad: 42-45 anos.
 Rol: Padre de Ren. Mentor silencioso.
 Personalidad: Serio, trabajador, disciplinado y protector. Habla poco, pero sus frases pesan.
 Habilidades: Defensa personal, autocontrol, pensamiento practico, calma bajo presion.
-Funcion narrativa: Le enseno a Ren que la fuerza debe estar bajo control. Su frase "Control antes que fuerza" define gran parte del conflicto interno de Ren.
+Función narrativa: Le enseno a Ren que la fuerza debe estar bajo control. Su frase "Control antes que fuerza" define gran parte del conflicto interno de Ren.
 Frase guia: "Control antes que fuerza. Siempre."
 
 ---
@@ -16,10 +16,10 @@ MIYAKO AIZAKI
 
 Edad: 40-43 anos.
 Rol: Madre de Ren. Centro emocional de la familia.
-Personalidad: Divertida, calida, perceptiva. Nota cosas antes que todos.
+Personalidad: Divertida, cálida, perceptiva. Nota cosas antes que todos.
 Habilidades: Leer emociones, sostener la normalidad, cuidar con comida y humor.
-Funcion narrativa: Mantiene el hogar vivo cuando el mundo se vuelve imposible. Trata a Aoi como parte de la familia.
-Frase guia: "No te acostumbres a cargar cosas solo."
+Función narrativa: Mantiene el hogar vivo cuando el mundo se vuelve imposible. Trata a Aoi como parte de la familia.
+Frase guía: "No te acostumbres a cargar cosas solo."
 
 ---
 
@@ -27,21 +27,21 @@ YUI AIZAKI
 
 Edad: 13 anos.
 Rol: Hermana menor de Ren. Gamer observadora.
-Personalidad: Sarcastica, inteligente, fastidiosa pero adorable. Usa humor para tapar ansiedad.
-Habilidades: Gaming, analisis de datos, detectar patrones, entender sistemas.
-Funcion narrativa: Traduce parte de la logica de la Arena en terminos gamer. Puede volverse importante en analisis tecnico.
-Frase guia: "Mi paranoia se volvio politica familiar."
+Personalidad: Sarcástica, inteligente, fastidiosa pero adorable. Usa humor para tapar ansiedad.
+Habilidades: Gaming, análisis de datos, detectar patrones, entender sistemas.
+Función narrativa: Traduce parte de la lógica de la Arena en términos gamer. Puede volverse importante en análisis técnico.
+Frase guía: "Mi paranoia se volvió política familiar."
 
 ---
 
 MIKA
 
 Edad: 17-18 anos.
-Rol: Seleccionada humana secundaria. Companera de Arena.
+Rol: Seleccionada humana secundaria. Compañera de Arena.
 Personalidad: Directa, bromista, competitiva. Usa sarcasmo para esconder miedo.
-Habilidades: Observacion social, lectura rapida de ambiente, calma relativa.
-Funcion narrativa: Alivio comico dentro de la Arena. Molesta a Ren y sirve como espejo externo de lo raro que el es.
-Frase guia: "Te pusieron demasiado cerca para no existir."
+Habilidades: Observación social, lectura rápida de ambiente, calma relativa.
+Función narrativa: Alivio cómico dentro de la Arena. Molesta a Ren y sirve como espejo externo de lo raro que el es.
+Frase guía: "Te pusieron demasiado cerca para no existir."
 
 ---
 
@@ -50,9 +50,9 @@ HARU SENDA
 Edad: 17 anos.
 Rol: Primer gamer humano destacado.
 Personalidad: Nervioso, introvertido, brillante bajo reglas de juego.
-Habilidades: Estrategia en tiempo real, gestion de recursos, adaptacion.
-Funcion narrativa: Demuestra que la humanidad no solo sirve para pelear; tambien puede ganar por creatividad y pensamiento tactico.
-Frase guia: "Hay... tutorial?"
+Habilidades: Estrategia en tiempo real, gestión de recursos, adaptación.
+Función narrativa: Demuestra que la humanidad no solo sirve para pelear; también puede ganar por creatividad y pensamiento táctico.
+Frase guía: "Hay... tutorial?"
 
 ---
 
