@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6db7b4a3fa7a632a",
+        "id": "241d1a5afd8c87b4",
         "type": "tabs",
         "children": [
           {
-            "id": "0ea6df5af0529623",
+            "id": "281ea302b2735a02",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -182,14 +182,18 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "0ea6df5af0529623",
+  "active": "281ea302b2735a02",
   "lastOpenFiles": [
-    "BIBLIA DE LA NOVELA/08 - Continuidad y pendientes.md",
+    "BIBLIA DE LA NOVELA/08 - Guia para la Continuidad y pendientes.md",
     "BIBLIA DE LA NOVELA/07 - Guia para generar capitulos con IA.md",
     "BIBLIA DE LA NOVELA/06 - Indice de capitulos.md",
     "BIBLIA DE LA NOVELA/05 - Resumen de arcos.md",
+    "BIBLIA DE LA NOVELA/04 - Mundo, Arena y Resonancia.md",
+    "BIBLIA DE LA NOVELA/02 - Personajes principales.md",
+    "BIBLIA DE LA NOVELA/03 - Personajes secundarios.md",
     "BIBLIA DE LA NOVELA/01 - Concepto general y tono.md",
     "BIBLIA DE LA NOVELA/00 - Como usar esta biblia.md",
+    "REGISTRO DE CONTINUIDAD",
     "ARCO 1 - EL CIELO ANTES DE ROMPERSE/Capitulo 12 - El Cielo Se Rompio.md",
     "ARCO 1 - EL CIELO ANTES DE ROMPERSE/Capitulo 11 - Algo Se Esta Acercando.md",
     "ARCO 1 - EL CIELO ANTES DE ROMPERSE/Capitulo 10 - La Noche Demasiado Silenciosa.md",
@@ -203,15 +207,11 @@
     "ARCO 1 - EL CIELO ANTES DE ROMPERSE/Capitulo 02 - La Idiota de la Casa de al Lado.md",
     "ARCO 1 - EL CIELO ANTES DE ROMPERSE/Capitulo 01 - Antes del Cielo Roto.md",
     "ARCO 1 - EL CIELO ANTES DE ROMPERSE/Capitulo 01 - Notas.md",
-    "BIBLIA DE LA NOVELA/04 - Mundo, Arena y Resonancia.md",
-    "BIBLIA DE LA NOVELA/03 - Personajes secundarios.md",
-    "BIBLIA DE LA NOVELA/02 - Personajes principales.md",
     "PERSONAJES - Guia principal.md",
     "ChatGPT Image 26 may 2026, 14_16_05 (2).png",
     "ChatGPT Image 26 may 2026, 14_16_05 (1).png",
     "ChatGPT Image 26 may 2026, 14_11_52.png",
     "ARCO 2 - LOS VISITANTES DEL CIELO/Capitulo 18 - Yo No Queria Estar Aqui.md",
-    "ARCO 2 - LOS VISITANTES DEL CIELO/Capitulo 17 - Error de Seleccion.md",
-    "ARCO 2 - LOS VISITANTES DEL CIELO/Capitulo 16 - Los Mas Cercanos a la Arena.md"
+    "ARCO 2 - LOS VISITANTES DEL CIELO/Capitulo 17 - Error de Seleccion.md"
   ]
 }
