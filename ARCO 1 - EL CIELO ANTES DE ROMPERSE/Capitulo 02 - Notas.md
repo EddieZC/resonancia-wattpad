@@ -14,10 +14,9 @@ Conexión emocional con la vida normal antes del colapso.
 
 Escenas sugeridas:
 1) Apertura con atmosfera del capítulo.
-2) Interacción clave entre Ren, Aoi o Lyra (según aplique).
-3) Conflicto principal del episodio.
-4) Decision o giro que cambie el rumbo.
-5) Cierre con mini cliffhanger.
+2) Conflicto principal del episodio.
+3) Decision o giro que cambie el rumbo.
+4) Cierre con mini cliffhanger.
 
 Notas de tono:
 - Estilo anime/Wattpad: dinámico, emocional y visual.

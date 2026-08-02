@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "e66142a78ee9cbae",
+        "id": "095edc1dede8a765",
         "type": "tabs",
         "children": [
           {
-            "id": "6613b53891c8187d",
+            "id": "065614b569455fd4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ARCO 1 - EL CIELO ANTES DE ROMPERSE/Capitulo 01 - Antes del Cielo Roto.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Capitulo 01 - Antes del Cielo Roto"
+              "title": "Nueva pestaña"
             }
           }
         ]
@@ -182,25 +178,28 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "a2907941624dc558",
+  "active": "065614b569455fd4",
   "lastOpenFiles": [
-    "Sin título.md",
+    "ARCO 1 - EL CIELO ANTES DE ROMPERSE/Capitulo 03 - Notas.md",
+    "ARCO 1 - EL CIELO ANTES DE ROMPERSE/Capitulo 02 - Notas.md",
+    "ARCO 1 - EL CIELO ANTES DE ROMPERSE/Capitulo 01 - Notas.md",
+    "ARCO 1 - EL CIELO ANTES DE ROMPERSE/Capitulo 02 - La Idiota de la Casa de al Lado.md",
     "ARCO 1 - EL CIELO ANTES DE ROMPERSE/Capitulo 01 - Antes del Cielo Roto.md",
+    "BIBLIA DE LA NOVELA/05 - Resumen de arcos.md",
+    "BIBLIA DE LA NOVELA/04 - Mundo, Arena y Resonancia.md",
+    "BIBLIA DE LA NOVELA/08 - Guia para la Continuidad y pendientes.md",
+    "ARCO 1 - EL CIELO ANTES DE ROMPERSE/Capitulo 03 - El Chico que Nunca Terminaba las Peleas.md",
+    "Sin título 1.md",
+    "Sin título.md",
     "ARCO 7 - LA GUERRA POR LA LUNA/Capitulo 66 - La Batalla de la Luna.md",
     "ARCO 5 - EL ULTIMO ASIENTO/Capitulo 50 - Esta Vez Si Voy a Pelear.md",
-    "ARCO 1 - EL CIELO ANTES DE ROMPERSE/Capitulo 02 - La Idiota de la Casa de al Lado.md",
     "ARCO 4 - EL METEORITO DE LA LUNA/Capitulo 36 - Notas.md",
     "ARCO 4 - EL METEORITO DE LA LUNA/Capitulo 35 - Zona Restringida.md",
     "ARCO 3 - LA CHICA DEL FONDO DE LA ARENA/Capitulo 34 - Compatibilidad Anormal.md",
     "ARCO 3 - LA CHICA DEL FONDO DE LA ARENA/Capitulo 25 - El Asiento Mas Lejano.md",
     "ARCO 2 - LOS VISITANTES DEL CIELO/Capitulo 24 - La Primera Derrota Humana.md",
-    "Sin título 1.md",
-    "ARCO 1 - EL CIELO ANTES DE ROMPERSE/Capitulo 01 - Notas.md",
     "BIBLIA DE LA NOVELA/07 - Guia para generar capitulos con IA.md",
-    "BIBLIA DE LA NOVELA/08 - Guia para la Continuidad y pendientes.md",
     "BIBLIA DE LA NOVELA/06 - Indice de capitulos.md",
-    "BIBLIA DE LA NOVELA/05 - Resumen de arcos.md",
-    "BIBLIA DE LA NOVELA/04 - Mundo, Arena y Resonancia.md",
     "BIBLIA DE LA NOVELA/02 - Personajes principales.md",
     "BIBLIA DE LA NOVELA/03 - Personajes secundarios.md",
     "BIBLIA DE LA NOVELA/01 - Concepto general y tono.md",
@@ -208,9 +207,6 @@
     "REGISTRO DE CONTINUIDAD",
     "ARCO 1 - EL CIELO ANTES DE ROMPERSE/Capitulo 12 - El Cielo Se Rompio.md",
     "ARCO 1 - EL CIELO ANTES DE ROMPERSE/Capitulo 11 - Algo Se Esta Acercando.md",
-    "ARCO 1 - EL CIELO ANTES DE ROMPERSE/Capitulo 10 - La Noche Demasiado Silenciosa.md",
-    "ARCO 1 - EL CIELO ANTES DE ROMPERSE/Capitulo 09 - La Promesa de Verano.md",
-    "ARCO 1 - EL CIELO ANTES DE ROMPERSE/Capitulo 08 - El Dia Mas Normal del Mundo.md",
     "ChatGPT Image 26 may 2026, 14_16_05 (2).png",
     "ChatGPT Image 26 may 2026, 14_16_05 (1).png",
     "ChatGPT Image 26 may 2026, 14_11_52.png"
