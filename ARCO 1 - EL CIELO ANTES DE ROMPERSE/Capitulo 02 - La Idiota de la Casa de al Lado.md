@@ -242,13 +242,9 @@ Ella negó con la cabeza.
 
 Cerró la libreta.
 
-—No hubo explosión.
+—No hubo explosión. No hubo avería.
 
-No hubo avería.
-
-Simplemente...
-
-Desapareció.
+Simplemente... desapareció.
 
 Aoi frunció el ceño.
 
@@ -284,6 +280,10 @@ El comedor siguió haciendo ruido.
 
 Como si nadie hubiera escuchado nada.
 
+Pero Aoi notó que varios estudiantes revisaban sus teléfonos con una urgencia que no era habitual. Algunos susurraban. Otros miraban hacia arriba, como si esperaran algo del techo.
+
+La tensión invisible se propagaba como un virus silencioso.
+
 ---
 
 Ren apareció unos minutos después.
@@ -300,11 +300,17 @@ Solo después caminó hasta ellos.
 
 —Cinco minutos.
 
-—Eso sigue siendo tarde.
+—Eso sigue siendo tarde. ¿Te dormiste otra vez?
 
-Ren sonrió.
+—No.
 
-Pero aquella sonrisa no llegó a sus ojos.
+—Pero tienes esa cara.
+
+—Esa cara no existe.
+
+—La tienes desde primaria, Ren.
+
+Él sonrió. Pero aquella sonrisa no llegó a sus ojos.
 
 Aoi decidió no insistir.
 
@@ -344,11 +350,15 @@ Después desapareció detrás de unas escaleras.
 
 Sonrió.
 
-Reconocería aquella forma de correr en cualquier lugar.
+Ese patrón de movimientos, ese ritmo absurdo...
 
-—Idiota...
+—Idiota.
 
-Solo Ren convertiría el camino a casa en una carrera de obstáculos para recuperar dos rangos perdidos con Yui.
+Saltaba como si estuviera huyendo de algo.
+
+Como si dos rangos perdidos justificaran convertir el camino a casa en una carrera de obstáculos.
+
+Solo Ren creería eso.
 
 ---
 
@@ -461,3 +471,7 @@ Aquella noche...
 Por primera vez...
 
 No consiguió creerlo.
+
+---
+
+**Continuará…**
