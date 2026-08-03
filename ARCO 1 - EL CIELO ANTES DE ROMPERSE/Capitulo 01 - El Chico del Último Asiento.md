@@ -1,4 +1,10 @@
-RESONANCIA: El Último Asiento Frente a la Arena ARCO 1 — EL CIELO ANTES DE ROMPERSE Capítulo 1 — Antes del Cielo Roto
+### RESONANCIA: El Último Asiento Frente a la Arena
+
+### ARCO 1 — EL CIELO ANTES DE ROMPERSE
+
+### Capítulo 01 - El Chico del Último Asiento
+
+---
 
 El despertador sonó a las 6:10 a.m.
 
@@ -16,17 +22,27 @@ Cinco minutos más.
 
 Ese era el trato que hacía con el mundo cada mañana, y el mundo, hasta ese día, siempre lo había respetado.
 
+Del otro lado de la calle, otra ventana se abrió.
+
+La habitación de Aoi Kanzaki estaba justo enfrente de la suya. Apenas unos metros separaban ambas casas, lo suficiente para que desde pequeños hubieran convertido aquellas ventanas en una puerta más.
+
+Su madre decía que era una pésima costumbre.
+
+Miyako Aizaki decía que era más fácil dejarla pasar que convencerla de usar la escalera.
+
 —¡REN! ¡ARRIBA!
 
 El mundo dejó de respetarlo.
 
-La ventana se abrió de golpe, dejando entrar el frío y a una chica de cabello negro despeinado por el esfuerzo de haber trepado medio muro para llegar hasta ahí.
+La ventana de su habitación se abrió de golpe y una ráfaga de aire frío invadió el cuarto.
 
-—Tu mamá me dejó entrar por la puerta —dijo Aoi Kanzaki, sin aliento—. Decidí que la ventana era más dramático.
+Aoi apoyó una mano sobre el marco y entró con la naturalidad de quien llevaba años haciéndolo.
+
+—Tu mamá me dejó entrar por la puerta —dijo, recuperando el aliento—. Pero entrar desde mi ventana hasta la tuya es mucho más dramático.
 
 —Vas a matarte un día de estos.
 
-—Y tú vas a reprobar si no te levantas ahora mismo.
+—Llevo haciéndolo desde los diez años. Ya soy profesional.
 
 Ren abrió un ojo.
 
@@ -38,11 +54,11 @@ Ren abrió un ojo.
 
 —El examen es a las 7:30, Ren.
 
-Se sentó tan rápido que estuvo a punto de caerse de la cama.
+Se incorporó tan rápido que estuvo a punto de caerse de la cama.
 
 —¿Por qué no me despertaste antes?
 
-—Llevo quince minutos intentándolo. Primero con palabras. Luego con amenazas. Después con empujones. Al final tuve que amenazar con publicar las fotos de tu infancia.
+—Llevo quince minutos intentándolo. Primero te grité desde mi cuarto. Después vine por la puerta. Luego te hablé. Después te empujé. Y al final tuve que amenazar con publicar las fotos de tu infancia.
 
 —Eso es terrorismo.
 
@@ -56,9 +72,13 @@ En la cocina, Miyako Aizaki los recibió con una sonrisa que solo podía signifi
 
 —Mamá, tienes la culpa. Dejaste entrar a un ente hostil.
 
-—Le dije que usara la puerta. Ella eligió el drama.
+—Le dije que usara la escalera. Ella eligió el camino de siempre. 
 
-—Es más eficiente —respondió Aoi, aceptando la tostada que le extendían como si fuera un peaje diario—. Además, Tía, cuando dejas que entre por la ventana me siento especial.
+—Es una tradición —dijo Aoi con total naturalidad—. Si dejo de entrar por la ventana, Ren va a pensar que me pasó algo.
+
+—Yo pensaría que por fin maduraste. 
+
+—Qué poca fe me tienes.
 
 Miyako sonrió sin poder evitarlo.
 
@@ -84,7 +104,7 @@ Yui apareció en el marco de la puerta, consola portátil en mano, asumiendo la 
 
 —Me quedé dormido.
 
-—Excusa de noob.
+—Excusa de noob. Bajamos dos rangos. DOS, Ren. Estábamos a punto de subir a Plata y te dormiste.
 
 —Tengo dieciocho años.
 
@@ -186,148 +206,248 @@ Luego cerró la puerta.
 
 El comedor siguió bullendo como si nada. Pero Ren notó que al menos otros tres estudiantes habían escuchado lo mismo. Uno de ellos, un tercero, apagó rápidamente su celular cuando notó que lo miraban.
 
-Aoi lo miró desde el lado opuesto de la mesa.
-
-—¿Qué pasó?
-
-—Nada. Un profesor pareció recordar que olvidó algo.
-
-No le creyó. Pero no insistió.
-
 ---
 
-Al salir, Ren tomó el camino corto: el callejón detrás del gimnasio comunitario.
+Al salir del colegio, Ren tomó los callejones.
 
-Escuchó las voces antes de doblar la esquina.
+No todos los atajos eran directos. Algunos zigzagueaban entre edificios viejos y tiendas cerradas. Otros cruzaban parques donde los árboles creaban sombra constante.
 
-Tres chicos mayores rodeaban a uno más joven que sostenía su mochila contra el pecho como escudo.
+Pero Ren los conocía todos.
 
-—Dale, préstanos algo.
+La razón era simple: Yui. Dos rangos perdidos. Una partida clasificatoria que no había terminado.
 
-—No tengo.
+Necesitaba llegar a casa. Necesitaba volver a subir.
 
-—Entonces déjanos revisar.
+Aceleró.
 
-Ren suspiró. No con miedo. Con el cansancio de quien encuentra el mismo problema en el mismo lugar por enésima vez.
+El primer callejón lo llevaba entre dos edificios de apartamentos. Ren saltó un pequeño muro de medio metro sin ralentizar.
 
-—Oigan.
+El segundo cruzaba un parquecillo. Evitó una fuente, saltó un banco verde.
 
-Los tres voltearon.
+Tercero: escaleras de emergencia de una escuela. Las bajó saltando dos escalones a la vez.
 
-—¿Y tú qué quieres?
+Su ritmo era perfecto. Su respiración controlada. Sus movimientos economizados, como si hubiera corrido esta ruta cien veces.
 
-—Llegar temprano a casa. Si terminan rápido de ser patéticos, me ayudan bastante.
+Cuarto callejón: el más estrecho. Solo dos metros de ancho. Paredes de ladrillo a ambos lados. Una línea de tender ropa cruzaba la mitad.
 
-El más alto avanzó y lo empujó del hombro.
+Ren bajó la cabeza, aumentó la velocidad, pasó bajo sin tocarla.
 
-—¿Buscas pelea?
+Quinto: un estacionamiento subterráneo de un edificio. Bajó, cruzó, subió por la otra salida.
 
-Ren retrocedió medio paso. No por miedo. Por costumbre. Respiró una sola vez.
+La gente que lo vio pasar quedó confundida. Un chico en uniforme escolar, corriendo con la velocidad de alguien siendo perseguido. Pero no había nadie detrás. Solo aire.
 
-Control antes que fuerza.
+Sexto callejón: junto a la estación. Esquivó a dos trabajadores que cargaban cajas. Saltó una bicicleta estacionada.
 
-El segundo lanzó un golpe directo. Ren inclinó la cabeza apenas lo necesario, atrapó la muñeca en el aire y la giró. No fue violento. Fue preciso. El chico terminó de rodillas sin entender del todo qué había pasado.
+Ya estaba cerca.
 
-El tercero intentó por detrás. Ren se desplazó de lado, barrida corta, caída seca.
+Ultimo tramo recto.
 
-El líder atacó con más rabia que técnica. Ren bloqueó, desvió, inmovilizó.
+Aceleró una última vez.
 
-Tres movimientos. Tres caídos. Ningún espectáculo.
+Su casa apareció como destino. Las 16:47 en su reloj.
 
-Soltó al último.
+Llegó en el tiempo récord.
 
-—Ya está. Nadie ganó nada. Váyanse.
+***
 
-—Tú... —murmuró el grandote, humillado.
+Yui estaba en la sala con la consola, y cuando escuchó la puerta, no levantó la vista.
 
-—Soy "el raro del callejón". Invéntense algo mejor para mañana.
+—Llegaste tarde.
 
-Se fueron. El chico de primer año lo miraba con los ojos enormes.
+—Llegué en tiempo récord.
 
-—Gracias, senpai. ¡Eso fue increíble!
+—Para una competencia de marcha lenta, quizá.
 
-Ren le devolvió la mochila.
+Ren subió las escaleras hacia su cuarto, pero Yui gritó desde abajo:
 
-—No viste nada.
+—¡Y no hagas trampa esta vez! ¡Si te duermes otra vez, te cambio la contraseña!
 
-—Pero—
+—No puedes hacer eso.
 
-—Nada.
+—¿Quieres apostar?
 
-Caminó rápido, antes de que empezaran las preguntas.
+Ren no quiso apostar.
 
-No quería fama. No quería que nadie observara demasiado.
+Encendió su computadora. La partida seguía en pausa. Rango: Bronce 3.
 
-Quería, simplemente, días normales.
+Necesitaba volver a Plata.
 
----
+Necesitaba... ganar.
 
-En casa, Yui lo esperaba en la entrada con la expresión de una investigadora a punto de resolver un caso.
+***
 
-—Hubo reportes de pelea en el callejón.
+Más tarde, cuando finalmente salió, pasó por la ventana.
 
-—Tus reportes son puro chisme.
+En la casa de al lado, Aoi estaba en la entrada.
 
-—Mis reportes tienen fuentes confiables.
+Ella levantó la mano.
 
-—¿Ya hiciste la tarea?
+Ren la miró desde la calle y levantó la suya también.
 
-—Cambiar de tema es admitir culpabilidad.
+Mika, al lado de Ren, silbó.
 
-En la cena, Miyako sirvió curry mientras la televisión murmuraba en el fondo.
+—¿Novia?
 
-"Autoridades astronómicas reportan anomalías lumínicas cerca de la órbita lunar. Se recomienda mantener la calma mientras continúan las observaciones."
+Ren casi se atragantó.
 
-Ren levantó la vista.
+—No.
 
-—¿Otra vez esa noticia?
+—Entonces considera mi amenaza como motivación preventiva —dijo Aoi desde la distancia, como si pudiera leer sus labios.
 
-Takumi frunció el ceño sin apartar los ojos de la pantalla.
+Ren sonrió a pesar del cansancio.
 
-—No me gusta cuando piden mantener la calma.
+***
 
-—Eso nunca termina bien —agregó Yui, sin despegarse del teléfono.
+A las 7:15 p.m., cuando el cielo empezaba a ponerse naranja-gris, Aoi cruzó a la casa Aizaki.
 
-Miyako sonrió, aunque sus ojos se quedaron un segundo de más en la ventana.
+No tocó. Entró directo.
 
-—Mañana todo estará mejor.
+—Alguien corre como si estuviera escapando de algo —dijo.
 
-Ren quiso creerle. Casi lo logró.
+—¿Qué?
 
----
+—Te vi pasar. Saltando callejones como parkour.
 
-Más tarde, sentado frente a la computadora con una partida a medio terminar, recibió un mensaje.
+—Solo quería llegar rápido.
 
-Aoi: "No te duermas, genio. Mañana hay práctica."
+Aoi frunció el ceño.
 
-Ren: "No soy genio."
+—¿Por qué?
 
-Aoi: "Correcto. Eres un desastre funcional."
+Ren no respondió.
 
-Ren: "Gracias por el apoyo emocional."
+Aoi lo miró con esa paciencia que solo ella tenía.
 
-Aoi: "De nada. Buenas noches, Ren."
+—Ren.
 
-Se quedó mirando ese último mensaje un segundo más de lo normal.
+—Baje de rango —murmuró.
 
-Buenas noches.
+Aoi esperó el resto.
 
-Apagó la pantalla y caminó hasta la ventana. El barrio estaba en silencio. Demasiado silencio, incluso para un martes.
+—Con Yui. En la partida clasificatoria. Me dormí.
 
-Buscó la luna.
+Aoi soltó una risa.
 
-Y la encontró.
+—Espera. ¿Te dormiste DURANTE una partida?
 
-Un destello. Pequeño al principio. Una línea blanca, casi imperceptible, junto a su borde. Parpadeó, esperando que desapareciera. No desapareció.
+—Fue un accidente.
 
-No era avión. No era estrella fugaz. No era nada que pudiera nombrar.
+—¿Cómo se duerme alguien accidentalmente?
 
-Apoyó una mano en el marco frío de la ventana, con la certeza incómoda de que algo, en algún lugar del cielo, acababa de empezar a moverse.
+—Pregúntale a mis ojos.
 
-En la casa de al lado, la luz del cuarto de Aoi también se encendió.
+Aoi se fue a la cocina, donde Miyako ya estaba preparando la cena.
 
-Por un instante, el cielo pareció contener la respiración.
+***
 
-Y Ren supo, sin saber por qué, que su vida normal acababa de recibir la primera grieta.
+Esa noche, en la azotea, mirando hacia la luna, Aoi preguntó:
+
+—¿Tuviste algún sueño raro anoche?
+
+Ren tardó en responder.
+
+—¿Por qué lo preguntas?
+
+—Porque tuviste cara de no haber dormido bien.
+
+Ren miró hacia la luna.
+
+—Sí. Tuve uno.
+
+No preguntó qué tipo de sueño. Aoi tampoco preguntó.
+
+Simplemente estuvieron ahí.
+
+La tarde se hacía más oscura.
+
+El barrio seguía siendo el mismo barrio.
+
+Pero algo en el aire había cambiado. Como si el mundo estuviera reteniendo la respiración.
+
+A las 7:31 p.m., Aoi vio que Ren se tensaba.
+
+No era movimiento brusco. Era la rigidez de alguien que acaba de ver algo imposible.
+
+Aoi siguió su mirada.
+
+La luna estaba allí.
+
+Y por un segundo, solo un segundo, una línea blanca la atravesó.
+
+No fue reflejo.
+
+No fue avión.
+
+Fue algo que no tenía nombre.
+
+Ambos se quedaron mirando.
+
+Sin hablar.
+
+Sin moverse.
+
+Solo observando.
+
+Cuando la línea desapareció, Ren exhaló aire que no sabía que estaba reteniendo.
+
+Aoi apoyó su mano sobre la de él, en la baranda.
+
+Ren no la apartó.
+
+***
+
+Más tarde, en su cuarto, Aoi escribió un mensaje.
+
+Aoi: "Creo que sé lo que vi."
+
+Ren tardó tres minutos en responder.
+
+Ren: "¿Qué viste?"
+
+Aoi: "Porque si te lo cuento, todo se vuelve real."
+
+Ren respondió casi de inmediato.
+
+Ren: "Ya es real."
+
+Aoi se quedó mirando esa frase.
+
+Porque tenía razón.
+
+Y eso era lo que más miedo le daba.
+
+Se acercó a la ventana.
+
+En la casa de al lado, la luz del cuarto de Ren seguía encendida.
+
+Ambas luces brillaban en la oscuridad del barrio.
+
+Como dos puntos esperando que algo sucediera.
+
+***
+
+**Muy lejos de la Tierra.**
+
+Una esfera metálica giró lentamente frente a la Luna.
+
+Sus superficies reflejaban luz que no provenía del sol.
+
+En algún lugar dentro de esa estructura, un protocolo se activó. No era una conversación. Era un proceso. Sistemático. Frío.
+
+_Compatibilidad detectada._
+
+_Patrón anómalo._
+
+_Resonancia irregular._
+
+_Confirmación requerida._
+
+_Iniciar evaluación._
+
+Nadie en la Tierra escuchó aquel mensaje.
+
+No habría importado si lo hubieran hecho.
+
+Ya era demasiado tarde.
 
 Continuará…

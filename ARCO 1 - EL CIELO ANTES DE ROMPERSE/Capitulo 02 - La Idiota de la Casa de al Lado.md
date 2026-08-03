@@ -1,293 +1,463 @@
-### RESONANCIA: El Último Asiento Frente a la Arena
+# RESONANCIA: El Último Asiento Frente a la Arena
 
-### ARCO 1 — EL CIELO ANTES DE ROMPERSE
+## ARCO 1 — EL CIELO ANTES DE ROMPERSE
 
-### Capítulo 02 - La Idiota de la Casa de al Lado
-
----
-
-Aoi se despertó a las 3:47 a.m. sin razón aparente.
-
-No había ruido. No había luz. No había pesadilla con sangre o caídas que su cerebro racionalizara como susto nocturno.
-
-Solo... una sensación.
-
-Como si hubiera escuchado algo que no existía.
-
-Se quedó inmóvil en la cama, mirando el techo oscuro, intentando atrapar el hilo del sueño que se desmoronaba. Había una música. No música de verdad. Algo más profundo. Una nota sostenida que venía de ningún lado y se iba a ningún lugar.
-
-Luego nada.
-
-Se durmió otra vez sin poder describirlo.
+## Capítulo 02 – La Idiota de la Casa de al Lado
 
 ---
 
-A la mañana siguiente, su madre ya se había ido con su abuela al hospital para "revisiones rutinarias". Aoi odiaba esa palabra. "Rutinaria" era lo que decían los adultos cuando querían que no preguntaras.
+Aoi Kanzaki se despertó a las **3:47 a.m.**
 
-Se preparó con lentitud, uniformada, el cabello recogido de forma que pareciera no haber hecho esfuerzo aunque hubiera hecho exactamente ese esfuerzo.
+Abrió los ojos de golpe.
 
-Caminó hacia la casa Aizaki con la mochila a un lado del cuerpo.
+No había ruido.
 
-Ren estaba en el pórtico, con cara de alguien que acababa de recordar que el mundo existía.
+No había luz.
 
-—Llega tarde —dijo Aoi.
+No había pesadillas.
 
-—No llegamos tarde. Vamos a llegar justos.
+Solo una extraña sensación que no conseguía explicar.
 
-—"Justos" es código para "Aoi va a estar furiosa".
+Como si alguien hubiera pronunciado su nombre desde muy lejos.
 
-Ren sonrió apenas, pero Aoi notó que sus ojos no lo hicieron. No porque estuviera triste. Porque estaban en otro lado.
+Permaneció inmóvil, observando el techo.
 
-Eso la inquietó de una forma silenciosa.
+Intentó recordar el sueño.
+
+No pudo.
+
+Solo quedaba una nota.
+
+Una única nota que seguía resonando dentro de su cabeza.
+
+Cerró los ojos otra vez.
+
+Tardó varios minutos en volver a dormir.
 
 ---
 
-En el colegio, el día fue tan normal que parecía sospechoso.
+Cuando sonó la alarma, el cielo todavía conservaba ese azul oscuro que solo existía antes del amanecer.
 
-Clases aburridas. Profesores que repetían lo mismo. Ese grupo de chicas que susurraban sobre alguien. Un profesor que olvidó qué estaba enseñando a mitad de la lección.
+La casa estaba silenciosa.
 
-En el comedor, Aoi se sentó con su grupo habitual. Una compañera, dos chicos de la clase.
+Su madre ya había salido junto con su abuela para unas "revisiones rutinarias".
 
-Y Haru.
+Aoi odiaba esa palabra.
 
-Haru Senda estaba en la esquina del comedor, con su bandeja de comida aún sin tocar, escribiendo código en una libreta de papel (porque decía que las tablets eran "demasiado literales"). Tenía lentes que no necesitaba y un flequillo que le caía cada vez que se inclinaba sobre lo que estaba haciendo.
+_"Rutinaria."_
 
-No era popular.
+Era la forma elegante que tenían los adultos de decir:
 
-Pero tampoco era invisible.
+_"No te preocupes."_
 
-Era el tipo de invisible que solo nota quien lo conoce.
+Y casi siempre significaba exactamente lo contrario.
 
-—Ey, Haru —gritó Aoi—. ¿Ganaste tu clasificatoria?
+Preparó un desayuno rápido.
 
-Haru levantó la vista con la sorpresa de alguien a quien acaban de recordar que existe.
+Lavó el plato.
 
-—Sí. Subí dos rangos.
+Se puso el uniforme.
 
-—¿De verdad?
+Se recogió el cabello frente al espejo.
 
-—No, mentí —respondió—. Bajé dos rangos.
+Lo soltó.
 
-Aoi soltó una risa. Pero notó que Haru estaba mirando por la ventana del comedor. Su expresión cambió. Apenas. Solo un microsegundo.
+Volvió a recogerlo.
 
-—¿Haru? ¿Estás bien?
+Suspiró.
 
-Él volvió a su libreta.
+—Da igual... Ren ni siquiera nota estas cosas.
 
-—Sí. Solo... ¿viste las noticias sobre el satélite de esta mañana?
+Tomó la mochila.
 
-—¿Cuál?
+Antes de salir abrió la ventana de su habitación.
 
-—El que dejó de transmitir. Dijeron interferencia. Pero no tiene sentido. Los satélites no fallan así.
+El aire fresco le golpeó el rostro.
+
+Frente a ella, a apenas unos metros, estaba la ventana del cuarto de Ren.
+
+Cerrada.
+
+Sonrió.
+
+—Como siempre...
+
+Podía bajar por la escalera.
+
+Cruzar la calle.
+
+Entrar por la puerta principal.
+
+Subir hasta su cuarto.
+
+Era el camino lógico.
+
+Por eso nunca lo hacía.
+
+Apoyó un pie sobre el estrecho borde de concreto que unía ambas casas.
+
+Había recorrido aquel camino tantas veces desde niña que ya no necesitaba mirar dónde pisaba.
+
+Dos pasos.
+
+Tres.
+
+Sujetó el marco de la ventana.
+
+Golpeó el vidrio.
+
+Nada.
+
+Volvió a golpear.
+
+Silencio.
+
+Sonrió con resignación.
+
+Abrió la ventana.
+
+—¡REN! ¡ARRIBA!
+
+El resto ocurrió exactamente como imaginaba.
+
+Ren tardó demasiado en reaccionar.
+
+Protestó.
+
+Intentó negociar cinco minutos más.
+
+Y terminó levantándose porque ella nunca aceptaba perder esa discusión.
+
+Aoi jamás se lo admitiría.
+
+Pero aquella rutina era una de sus partes favoritas del día.
+
+---
+
+Diez minutos después bajaban las escaleras de la casa Aizaki.
+
+Ren seguía intentando abotonarse la camisa.
+
+Ella llevaba su mochila.
+
+Como siempre.
+
+En la cocina reinaba el caos habitual.
+
+Yui seguía enfadada por la partida de la noche anterior.
+
+Takumi corregía la postura de Ren sin siquiera levantar la voz.
+
+Miyako repartía desayunos como si dirigiera una orquesta perfectamente ensayada.
+
+Aoi sonrió.
+
+Aquella casa siempre le había parecido más ruidosa que la suya.
+
+Y también más cálida.
+
+---
+
+Caminaron hasta el colegio hablando de cualquier tontería.
+
+Azúcar en el arroz.
+
+Exámenes.
+
+Videojuegos.
+
+Nada importante.
+
+Sin embargo...
+
+Cada pocos minutos Ren levantaba la vista hacia el cielo.
+
+No era evidente.
+
+Probablemente nadie más lo habría notado.
+
+Pero Aoi llevaba demasiados años caminando junto a él.
+
+Sabía reconocer cuándo fingía estar tranquilo.
+
+Y aquella mañana...
+
+Lo estaba haciendo demasiado bien.
+
+---
+
+Las clases transcurrieron con una normalidad incómoda.
+
+Los profesores hablaban.
+
+Los alumnos dormían.
+
+Alguien olvidó entregar una tarea.
+
+Otro rompió un borrador.
+
+Todo parecía igual.
+
+Demasiado igual.
+
+Como si el mundo estuviera esforzándose por parecer normal.
+
+---
+
+Durante el descanso encontró a Haru sentado solo.
+
+Su bandeja seguía intacta.
+
+Frente a él había una libreta llena de fórmulas.
+
+—Buenos días, científico loco.
+
+—Buenos días.
+
+—¿Otra vez programando en papel?
+
+—El papel nunca se queda sin batería.
+
+Aoi soltó una pequeña risa.
+
+Era una respuesta muy de Haru.
+
+Pero algo en él también era diferente.
+
+Miraba demasiado hacia el cielo.
+
+—¿Qué pasa?
+
+Haru dudó unos segundos.
+
+—¿Viste las noticias?
+
+Ella negó con la cabeza.
+
+—Un satélite dejó de transmitir esta madrugada.
+
+—Eso pasa.
+
+—No así.
+
+Cerró la libreta.
+
+—No hubo explosión.
+
+No hubo avería.
+
+Simplemente...
+
+Desapareció.
 
 Aoi frunció el ceño.
 
-—¿Así cómo?
+—¿Y eso qué significa?
 
-Haru se encogió de hombros.
+Haru negó lentamente.
 
-—Como si algo interfiriera desde adentro, no desde afuera.
+—No lo sé.
 
-Luego volvió a su código. Pero Aoi notó que sus dedos se movían más lentamente. Como si estuviera procesando algo.
-
-Ren llegó al comedor cinco minutos después.
-
-Aoi lo observó. Buscaba algo. Sus ojos recorrieron el lugar como si estuviera mapeando posiciones. Cuando la encontró, se acercó.
-
-Pero durante esa caminata, pasó junto a una ventana.
-
-Y volvió a mirar la luna.
-
-Desde el sueño de la noche anterior no había dejado de preguntarse si aquello era solo imaginación. Quería creer que sí. Necesitaba creer que sí. Pero la luz de su habitación había estado encendida casi toda la noche. No por curiosidad. Por miedo.
-
-Su expresión cambió de forma casi imperceptible cuando observó el cielo.
-
-Fue menos de un segundo.
-
-Pero fue suficiente.
-
-—¿Estás bien? —preguntó Aoi cuando se sentó.
-
-—¿Mm?
-
-—Tu cara.
-
-—¿Qué pasa con mi cara?
-
-—Estaba pensativa. Eso en ti significa problema.
-
-Ren comió parte de su arroz.
-
-—Solo pensé en algo.
-
-—¿En?
-
-—Nada importante.
-
-Aoi lo conocía desde primaria. Así que sabía exactamente cuándo mentía.
-
-Y sabía que esta vez, la mentira pesaba.
-
-—Cada día inventas diagnósticos distintos para evitar hablar —dijo Ren de pronto, con ese humor seco que tenía.
-
-—Esa es una categoría nueva.
-
-Ren sonrió esta vez. Fue pequeña. Pero fue de verdad.
-
-A Aoi le importó más de lo que debería.
+Y eso es precisamente lo que me preocupa.
 
 ---
 
-De regreso a casa, Ren sugirió pasar por la de él.
+Un profesor pasó caminando cerca de ellos.
 
-"Mi mamá hizo postres", dijo con ese tono que Aoi había aprendido a reconocer como "necesito estar rodeado de gente que me quiera".
+Llevaba el teléfono pegado al oído.
 
-En la casa Aizaki pasaba exactamente lo que pasaba siempre.
+No parecía alterado.
 
-Yui estaba en la sala con la consola, hablando sola mientras perdía una partida clasificatoria.
+Parecía reconocer algo que llevaba tiempo esperando.
 
-Miyako aparecía y desaparecía de la cocina como un fantasma domesticado.
+—...otra vez...
 
-Takumi aún no llegaba.
+Fue lo único que alcanzó a escuchar.
 
-Pero la sensación era la misma: hogar.
+El profesor desapareció por el pasillo.
 
-A Aoi siempre le había gustado estar aquí. Más de lo que le gustaba estar en la suya.
+Haru dejó de escribir.
 
-Comieron en la sala. Postres que Miyako había preparado con esa precisión de madre que sabe exactamente cuándo alguien necesita comida sin preguntar.
+Aoi dejó de sonreír.
 
-Yui hablaba sobre una actualización de juego.
+El comedor siguió haciendo ruido.
 
-Miyako bromeaba sobre los reflejos de su hijo.
-
-Ren fingía poner atención, pero Aoi sabía que estaba en otro lado.
-
-A las 7:15 p.m., cuando el cielo empezaba a ponerse naranja-gris, Aoi dijo:
-
-—Vamos a la azotea.
-
-No fue pregunta.
-
-Ren se levantó sin protestar.
+Como si nadie hubiera escuchado nada.
 
 ---
 
-La azotea de la casa Aizaki era su lugar.
+Ren apareció unos minutos después.
 
-No porque fuera especial. Era simplemente un rectángulo de cemento con una baranda herrumbrosa y una vista del barrio que no cambiaba demasiado.
+Aoi levantó la vista.
 
-Pero desde aquí se veía la luna durante el día.
+Lo primero que hizo él fue recorrer el comedor con la mirada.
 
-Aoi siempre había pensado que eso era raro. Las cosas que brillan en la noche no deberían brillar de día. Y sin embargo, ahí estaba.
+Como si estuviera comprobando que todo seguía exactamente donde debía estar.
 
-Se recostaron sobre la baranda. El viento era frío.
+Solo después caminó hasta ellos.
 
-—¿Tuviste algún sueño raro anoche? —preguntó Aoi.
+—Llegas tarde.
 
-Ren tardó en responder.
+—Cinco minutos.
 
-—¿Por qué lo preguntas?
+—Eso sigue siendo tarde.
 
-—Porque tu cara de hoy fue sueño raro.
+Ren sonrió.
 
-Ren miró hacia la luna.
+Pero aquella sonrisa no llegó a sus ojos.
 
-—Sí. Tuve uno.
+Aoi decidió no insistir.
 
-No preguntó qué tipo de sueño. Aoi tampoco preguntó.
+Conocía esa expresión.
 
-Simplemente estuvieron ahí.
-
-La tarde se hacía más oscura.
-
-El barrio seguía siendo el mismo barrio.
-
-Pero algo en el aire había cambiado. Como si el mundo estuviera reteniendo la respiración.
-
-A las 7:31 p.m., Aoi vio que Ren se tensaba.
-
-No era movimiento brusco. Era la rigidez de alguien que acaba de ver algo imposible.
-
-Aoi siguió su mirada.
-
-La luna estaba allí.
-
-Y por un segundo, solo un segundo, una línea blanca la atravesó.
-
-No fue reflejo.
-
-No fue avión.
-
-Fue algo que no tenía nombre.
-
-Ambos se quedaron mirando.
-
-Sin hablar.
-
-Sin moverse.
-
-Solo observando.
-
-Cuando la línea desapareció, Ren exhaló aire que no sabía que estaba reteniendo.
-
-Aoi apoyó su mano sobre la de él, en la baranda.
-
-Ren no la apartó.
+Era la misma que tenía cada vez que algo lo preocupaba y todavía no encontraba palabras para explicarlo.
 
 ---
 
-Más tarde, en su cuarto, Aoi escribió un mensaje.
+Las clases terminaron.
 
-Aoi: "Creo que sé lo que vi."
+En la salida se despidieron como siempre.
 
-Ren tardó tres minutos en responder.
+—Nos vemos luego.
 
-Ren: "¿Qué viste?"
+—No llegues tarde.
 
-Aoi: "Porque si te lo cuento, todo se vuelve real."
+—No prometo nada.
 
-Ren respondió casi de inmediato.
+Ren tomó el camino más corto hacia su casa.
 
-Ren: "Ya es real."
+Aoi volvió caminando sin demasiada prisa.
 
-Aoi se quedó mirando esa frase.
-
-Porque tenía razón.
-
-Y eso era lo que más miedo le daba.
+Al llegar a su habitación dejó la mochila sobre la cama.
 
 Se acercó a la ventana.
 
-En la casa de al lado, la luz del cuarto de Ren seguía encendida.
+Y entonces lo vio.
 
-Ambas luces brillaban en la oscuridad del barrio.
+Una figura cruzó entre los edificios.
 
-Como dos puntos esperando que algo sucediera.
+Saltó un pequeño muro.
+
+Luego otro.
+
+Después desapareció detrás de unas escaleras.
+
+Sonrió.
+
+Reconocería aquella forma de correr en cualquier lugar.
+
+—Idiota...
+
+Solo Ren convertiría el camino a casa en una carrera de obstáculos para recuperar dos rangos perdidos con Yui.
 
 ---
 
-**Muy lejos de la Tierra.**
+A las siete y cuarto cruzó la calle.
 
-Una esfera metálica giró lentamente frente a la Luna.
+Entró en la casa Aizaki como si fuera una habitación más de la suya.
 
-Sus superficies reflejaban luz que no provenía del sol.
+Miyako la recibió con un plato de postre recién preparado.
 
-En algún lugar dentro de esa estructura, un protocolo se activó. No era una conversación. Era un proceso. Sistemático. Fríío.
+—Llegas justo a tiempo.
 
-_Compatibilidad detectada._
+—Siempre.
 
-_Patrón anómalo._
+—Qué conveniente.
 
-_Resonancia irregular._
+—Es un talento.
 
-_Confirmación requerida._
+Las dos rieron.
 
-_Iniciar evaluación._
+Desde el segundo piso se escuchó la voz de Yui discutiendo con Ren por otra partida.
 
-Nadie en la Tierra escuchó aquel mensaje.
+Todo seguía siendo normal.
 
-No habría importado si lo hubieran hecho.
+O al menos...
 
-Ya era demasiado tarde.
+Eso intentaban creer.
 
-Continuará…
+---
+
+Subieron a la azotea.
+
+El viento era frío.
+
+Más frío de lo habitual.
+
+—¿Tuviste un sueño raro anoche?
+
+La pregunta escapó de sus labios antes de poder detenerla.
+
+Ren tardó unos segundos en responder.
+
+—Sí.
+
+Nada más.
+
+Aoi no preguntó cuál.
+
+Porque, en el fondo...
+
+Temía que fuera el mismo.
+
+Permanecieron en silencio.
+
+Mirando la Luna.
+
+Entonces ocurrió.
+
+Una delgada línea blanca atravesó su superficie.
+
+Un instante.
+
+Solo uno.
+
+Pero ambos la vieron.
+
+No fue un avión.
+
+No fue un reflejo.
+
+No fue nada que pudiera explicarse.
+
+Aoi sintió la mano de Ren tensarse sobre la baranda.
+
+Sin pensarlo, apoyó la suya encima.
+
+Él no la apartó.
+
+Y eso le dio más miedo que la propia luz.
+
+---
+
+Esa noche escribió un mensaje.
+
+**Aoi:** _Creo que sé lo que vi._
+
+Tres minutos después llegó la respuesta.
+
+**Ren:** _¿Qué viste?_
+
+Sus dedos permanecieron inmóviles sobre el teclado.
+
+Finalmente escribió:
+
+**Aoi:** _Porque si te lo cuento... todo se vuelve real._
+
+La respuesta apareció casi al instante.
+
+**Ren:** _Ya es real._
+
+Aoi dejó el teléfono.
+
+Caminó hasta la ventana.
+
+La luz del cuarto de Ren seguía encendida.
+
+Durante toda su vida, aquella luz siempre le había parecido una promesa de que mañana sería un día normal.
+
+Aquella noche...
+
+Por primera vez...
+
+No consiguió creerlo.

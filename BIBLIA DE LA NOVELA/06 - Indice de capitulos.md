@@ -18,14 +18,47 @@ Presentar a Ren, Aoi, la familia, el colegio y sembrar el misterio. El lector de
 ### 1. El Chico del Último Asiento
 
 Presentación de Ren, su personalidad reservada y sus reflejos poco comunes.
+**Objetivo:** Presentar a Ren.
+
+- Su rutina.
+- Su forma de observar a las personas.
+- Su aislamiento.
+- Pequeños detalles de que tiene reflejos anormales.
+
+Nada de explicar todavía que es fuerte.
+Ejemplo:  
+Un compañero deja caer un vaso y Ren lo atrapa antes de que toque el suelo.
+Todos creen que fue suerte.
+Ren simplemente dice:
+> "Solo estaba cerca."
 
 ### 2. La Idiota de la Casa de al Lado
 
 Se presenta Aoi, el humor de ambos y la dinámica de amigos de la infancia.
+Aquí debe estar el corazón de la historia.
+
+- Bromas.
+- Recuerdos de infancia.
+- Aoi molestándolo.
+- Ren fingiendo que le molesta.
+
+El lector debe pensar:
+"Estos dos se necesitan aunque no lo admitan."
 
 ### 3. El Chico que Nunca Terminaba las Peleas
 
 Ren demuestra que sabe pelear, pero evita hacer daño. Se menciona la filosofía que le enseñó su padre.
+**Objetivo:** Mostrar su filosofía.
+No hacer una pelea larga.
+Solo una situación:
+Un chico provoca a Ren.
+Ren esquiva todos los golpes.
+Cuando puede ganar fácilmente, se detiene.
+Le preguntan:
+"¿Por qué no terminaste?"
+Ren responde:
+> "Porque ganar no significa destruir al otro."
+Aquí aparece la enseñanza de su padre.
 
 ---
 
@@ -34,14 +67,49 @@ Ren demuestra que sabe pelear, pero evita hacer daño. Se menciona la filosofía
 ### 4. La Clasificación Invisible
 
 Satélites fallan. Observatorios detectan anomalías. Nadie sabe qué ocurre.
+Más misterio.
+
+No mostrar alienígenas todavía.
+
+Solo:
+
+- Animales alterados.
+- Satélites fallando.
+- Astrónomos preocupados.
+- Personas mirando el cielo.
+
+Ren siente algo raro.
 
 ### 5. Mi Familia Se Va a Mudar
 
 Problema personal que afecta a Ren y Aoi. Esto hace que el lector se preocupe por ellos antes del desastre.
+Este capítulo es importante.
+No es relleno.
+Es donde el lector entiende:
+Ren no teme morir.
+Ren teme perder a las personas.
+Puede ser:
+El padre recibe una oferta de trabajo lejos.
+Aoi podría irse.
+Por primera vez Ren pierde su calma.
 
 ### 6. Lo Que Nunca Pudimos Decir
 
 Aoi intenta confesarse, pero una extraña luz en el cielo interrumpe el momento.
+Este debería ser uno de los capítulos más fuertes.
+
+No una confesión completa.
+Algo incompleto.
+Aoi:
+> "Ren... si mañana todo cambiara, ¿hay algo que quisieras decir?"
+
+Ren:
+> "No sé."
+
+Ella:
+> "Eres increíblemente malo hablando."
+
+Y justo ahí aparece la luz.
 
 ---
 
@@ -50,14 +118,41 @@ Aoi intenta confesarse, pero una extraña luz en el cielo interrumpe el momento.
 ### 7. Señales Sobre la Luna
 
 La comunidad científica confirma que la Luna está cambiando.
+Ciencia y miedo.
+La humanidad empieza a aceptar:
+"Algo nos está observando."
 
 ### 8. El Día Más Normal del Mundo
 
 Un capítulo tranquilo con colegio, familia y festival. El lector sabe que será la última calma.
+Este capítulo es obligatorio.
+
+El mejor capítulo emocional.
+Mostrar:
+
+- Colegio.
+- Amigos.
+- Familia.
+- Festival.
+- Comida.
+- Risas.
+
+Pero el lector sabe:
+"Esto se acabará."
 
 ### 9. La Promesa de Verano
 
 Ren y Aoi hacen una promesa. Esa misma noche aparece una gigantesca luz detrás de la Luna.
+Ren y Aoi tienen un momento importante.
+No amor declarado.
+Algo más fuerte.
+Una promesa.
+Ejemplo:
+Aoi:
+> "Si algún día pasa algo extraño... búscame primero."
+
+Ren:
+> "Lo haré."
 
 ---
 
@@ -66,18 +161,56 @@ Ren y Aoi hacen una promesa. Esa misma noche aparece una gigantesca luz detrás 
 ### 10. La Noche Demasiado Silenciosa
 
 Se cortan las comunicaciones y todo el planeta queda en tensión.
+La humanidad espera.
 
-### 11. Algo Se Está Acercando
+- Comunicaciones caen.
+- Los gobiernos ocultan información.
+- Nadie sabe qué ocurre.
+- Ren siente que algo está por cambiar.
 
-Objetos gigantes atraviesan la atmósfera. Gobiernos activan protocolos de emergencia.
+Termina con:
 
-### 12. El Cielo Se Rompió
+> "Esa noche, por primera vez en la historia, nadie miró hacia adelante.  
+> Todos miraron hacia arriba."
 
-Las naves aparecen y una voz anuncia:
+### 11. El Cielo Se Rompió
 
-> "La Tierra ha sido seleccionada para la Evaluación Universal."
+(Sería el cierre del Arco 1)
+Este capítulo sería más largo y cinematográfico.
+Primera parte:
+La vida normal desaparece.
 
-**Fin del Arco 1.**
+- Las estrellas dejan de verse.
+- Una sombra cubre la Luna.
+- Millones de personas observan.
+
+Segunda parte:
+Aparecen las naves.
+Pero no como una invasión.
+Algo más extraño:
+No atacan.
+No disparan.
+Simplemente están ahí.
+Ren y Aoi están juntos mirando el cielo.
+Aoi pregunta:
+> "Ren... ¿qué crees que quieren?"
+
+Ren responde:
+> "No lo sé."
+
+Pausa.
+> "Pero creo que no vinieron por casualidad."
+
+Entonces llega la voz:
+> "Habitantes del planeta Tierra."
+
+Silencio.
+> "Su existencia ha sido registrada."
+> "Su especie será sometida a una evaluación."
+> "Aquellos que demuestren resonancia continuarán."
+> "Aquellos que fallen desaparecerán."
+
+Fin del Arco 1.
 
 # ARCO 2 — LOS VISITANTES DEL CIELO
 ---

@@ -1,289 +1,439 @@
-### RESONANCIA: El Último Asiento Frente a la Arena
+# RESONANCIA: El Último Asiento Frente a la Arena
 
-### ARCO 1 — EL CIELO ANTES DE ROMPERSE
+## ARCO 1 — EL CIELO ANTES DE ROMPERSE
 
-### Capítulo 03 - El Chico que Nunca Terminaba las Peleas
+## Capítulo 03 – El Chico que Nunca Terminaba las Peleas
 
 ---
 
-El chico de primer año llegó a la escuela con los nervios ya rotos.
+**Al día siguiente**, un chico de primer año llegó a la escuela con los nervios ya rotos.
 
-No sabía por qué. Los lunes siempre eran así. Una especie de duda constante que empezaba desde el momento en que despertaba: "¿Hoy pasará algo?"
+No sabía por qué.
 
-Entró por la puerta principal, mochila apretada contra el pecho como escudo.
+Los martes nunca le habían gustado.
 
-En el patio, un grupo de estudiantes de último año estaba riendo. Demasiado fuerte. Del tipo de risa que no es diversión, sino humillación.
+Había algo en ellos que hacía que el colegio pareciera más grande, los pasillos más largos y las risas mucho más fuertes.
 
-No lo miraban. Pero él sabía que podían hacerlo en cualquier momento.
+Entró por la puerta principal con la mochila apretada contra el pecho como si pudiera protegerlo.
 
-Se fue directo a su aula. Tercer piso. Lejos de donde ellos usualmente estaban.
+En el patio, tres estudiantes de último año reían a carcajadas.
 
-Durante las clases intentó concentrarse. Falló. Su profesor de Matemáticas escribía en la pizarra mientras el chico simplemente miraba las palabras sin entenderlas. ¿Cuánta energía mental requería la supervivencia diaria? Toda. Le quedaba cero para las matemáticas.
+No lo estaban mirando.
 
-En el receso se quedó en el aula.
+Todavía.
 
-Comió solo. Leyó un manga en el que el protagonista peleaba contra villanos enormes y ganaba siempre.
+Bajó la cabeza y siguió caminando.
 
-Qué fácil parecía ser fuerte en los cómics.
+Era mejor pasar desapercibido.
+
+Siempre era mejor.
 
 ---
 
 Ren Aizaki no había dormido bien.
 
-Eso no era del todo verdad. No había dormido nada.
+Eso tampoco era del todo cierto.
 
-Pasó toda la noche acostado, mirando el techo, esperando que el cielo hiciera algo. Anoche la línea blanca atravesó la luna. ¿Volvería a hacerlo? Necesitaba saber. Y no saber era peor que saber la verdad.
+Había pasado buena parte de la noche despierto, observando el techo de su habitación.
 
-Con la mañana llegó un cansancio que ni todo el café que su madre le sirvió pudo borrar.
+Cada vez que cerraba los ojos volvía a aparecer aquella línea blanca atravesando la Luna.
 
-Aoi notó de inmediato.
+No sabía qué había visto.
 
-—Te ves como zombie con uniforme —dijo en el camino al colegio.
+Pero sabía que era real.
 
-—Gracias por el diagnóstico poético.
+Cuando sonó el despertador, sintió que apenas había dormido unos minutos.
+
+Del otro lado de la ventana se escuchó un golpe suave.
+
+Luego otro.
+
+Sonrió con cansancio.
+
+Solo una persona golpeaba así.
+
+La ventana se abrió.
+
+—Buenos días, zombie.
+
+Aoi asomó medio cuerpo desde su ventana hasta la de él con una naturalidad imposible para cualquiera que no hubiera crecido haciéndolo.
+
+—Buenos días...
+
+Ella inclinó ligeramente la cabeza.
+
+—Qué mala cara.
+
+—Gracias.
+
+—No era un cumplido.
+
+—Lo imaginé.
+
+Aoi lo observó unos segundos más.
 
 —¿No dormiste?
 
-Ren dudó un segundo de más.
+Ren tardó apenas un instante en responder.
 
 —Dormí.
 
-Aoi no insistió. Pero sus ojos dijeron algo que sus labios no pronunciaron: "Sé que mientes, y cuando quieras hablar, estaré aquí."
-
----
-
-En el colegio, durante la clase de Historia, algo raro sucedió.
-
-Ren pasó por la ventana del segundo piso en su camino al baño.
-
-Al pasar, levantó la vista hacia el cielo sin pensar en ello.
-
-Día nublado. Normal. Aburrido. La luna no estaba visible.
-
-Pero sintió algo. Una presión. Como si estuviera siendo visto.
-
-Desvió la mirada rápidamente y siguió caminando.
-
-En el comedor, intentó concentrarse en la conversación con Aoi. Ella hablaba sobre un examen de Literatura, sobre cómo el profesor calificaba basándose en "vibraciones emocionales" en lugar de gramática.
-
-—Es injusto —decía Aoi—. Mi escritura tiene perfecto sentido.
-
-—Tu escritura insulta a la literatura en general —respondió Ren.
-
-—Eso es mejor que tu escritura, que insulta directamente a la gramática.
-
-Era el tipo de broma que hacían todos los días. Pero hoy Ren sentía que estaban hablando detrás de vidrio. Como si no lograra conectar del todo.
-
-Aoi lo notó.
-
-—¿Seguro que estás bien?
-
-—Perfectamente.
-
 Otra mentira.
 
+No la contradijo.
+
+Había aprendido hacía mucho tiempo que insistir solo hacía que Ren levantara más muros.
+
+—Cinco minutos —dijo finalmente.
+
+—Tres.
+
+—Negociadora terrible.
+
+—Vecina eficiente.
+
+Por primera vez en toda la mañana, Ren sonrió de verdad.
+
 ---
 
-Después de salir del colegio, Ren tomó el camino corto.
+El camino al colegio transcurrió entre conversaciones absurdas sobre exámenes, videojuegos y la extraña capacidad de Yui para enfadarse por perder una partida clasificatoria.
 
-El callejón detrás del gimnasio comunitario.
+Todo parecía normal.
 
-Escuchó las voces antes de doblar la esquina.
+Demasiado normal.
 
-Tres chicos mayores rodeaban a uno más joven que sostenía su mochila contra el pecho como si fuera un bebé.
+Cada cierto tiempo Ren levantaba la vista hacia el cielo.
 
-—Dale, préstanos algo.
+La Luna ya no podía verse.
 
-—No tengo.
+Aun así...
 
-—Entonces déjanos revisar.
+Seguía buscándola.
 
-Ren suspiró.
+Aoi fingía no darse cuenta.
 
-Este era el tipo de escena que odiaba. No por miedo. Por el cansancio de verla repetirse constantemente.
+---
+
+Las clases pasaron lentamente.
+
+Durante Historia, Ren salió unos minutos al baño.
+
+Al cruzar el pasillo sintió aquella misma presión.
+
+Como si alguien observara desde muy arriba.
+
+Levantó la vista por instinto.
+
+Solo había nubes.
+
+Continuó caminando.
+
+No dijo nada.
+
+---
+
+En el comedor, Aoi hablaba más de lo habitual.
+
+Era una costumbre.
+
+Cuando Ren se encerraba en sí mismo, ella llenaba el silencio.
+
+—El profesor de Literatura corrigió mi ensayo con "le faltan emociones".
+
+—Quizá porque insultaste al protagonista en el primer párrafo.
+
+—Era una crítica constructiva.
+
+—Lo llamaste "una decepción evolutiva".
+
+—Seguía siendo constructiva.
+
+Ren soltó una risa corta.
+
+Aoi sonrió.
+
+Había conseguido arrancarle una.
+
+Pero apenas duró un segundo.
+
+Él volvió a perderse en sus pensamientos.
+
+—¿Sigues pensando en anoche?
+
+La pregunta escapó antes de que pudiera detenerla.
+
+Ren levantó la mirada.
+
+No respondió.
+
+Y ese silencio confirmó mucho más que cualquier palabra.
+
+---
+
+Las clases terminaron.
+
+Los alumnos comenzaron a dispersarse.
+
+El chico de primer año eligió el camino que pasaba detrás del gimnasio comunitario.
+
+Era un atajo.
+
+También era el peor lugar posible.
+
+Las voces aparecieron antes que las personas.
+
+—Oye.
+
+¿No ibas a prestarnos algo?
+
+El chico sintió que el estómago se le cerraba.
+
+Los tres estaban allí.
+
+Otra vez.
+
+---
+
+Ren dobló la esquina unos segundos después.
+
+Suspiró.
+
+Siempre era el mismo callejón.
+
+Siempre el mismo problema.
 
 —Oigan.
 
-Los tres voltearon.
+Los tres giraron.
 
-—¿Y tú qué quieres? —dijo el líder, con esa sonrisa que significaba que creía que había ganado.
+—¿Y tú qué quieres?
 
-Ren no respondió con palabras.
+Ren dejó escapar el aire lentamente.
 
-El primero atacó con confianza de quien sabe que es más grande y es tres contra uno.
+Control antes que fuerza.
 
-Puño directo al rostro.
+El primero lanzó un golpe directo.
 
-Ren no bloqueó dramáticamente. Simplemente levantó el brazo, desvió la trayectoria del golpe un centímetro. El atacante, con su propio impulso, perdió el equilibrio y cayó hacia adelante.
+Ren apenas movió el brazo.
 
-El segundo intentó por detrás.
+El puño cambió de dirección apenas unos centímetros.
 
-Ren dio un paso lateral tan pequeño que parecía que apenas se movía. El puño pasó a quince centímetros de su cabeza. El atacante se giró, furioso, e intentó de nuevo.
+Fue suficiente.
 
-Ren anticipó el movimiento. Su cuerpo ya sabía dónde iría el golpe. Desvió la muñeca. El atacante golpeó el aire.
+El atacante perdió el equilibrio y terminó de rodillas.
 
-Por tercera vez.
+El segundo apareció por detrás.
 
-Por cuarta vez.
+Ren dio un paso lateral.
 
-Ren no atacaba. Solo existía donde sus enemigos esperaban que estuviera un segundo después.
+Nada más.
 
-El tercero, el líder, vio a sus amigos caer sin que nadie los hubiera tocado realmente. Eso lo asustó más que cualquier combate justo.
+El golpe atravesó el aire.
 
-Intentaron un movimiento coordinado. Los tres avanzaban a la vez.
+El tercero avanzó con más rabia que técnica.
+
+Ren bloqueó.
+
+Desvió.
+
+Giró la muñeca.
+
+El cuerpo del agresor perdió completamente el centro de gravedad.
+
+Los tres volvieron a intentarlo.
+
+Una vez.
+
+Dos.
+
+Tres.
+
+Cada movimiento de Ren era mínimo.
+
+Nunca parecía rápido.
+
+Simplemente...
+
+Siempre estaba donde el golpe no llegaba.
+
+El líder retrocedió un paso.
+
+Por primera vez sintió miedo.
+
+No porque Ren golpeara fuerte.
+
+Sino porque ni siquiera parecía necesitar hacerlo.
 
 Ren respiró una sola vez.
 
-Se desplazó un metro hacia la izquierda.
+—Ya está.
 
-Los tres pasaron de largo.
+Nadie ganó nada.
 
-Se giraron, furiosos, pálidos, sudorosos.
+Váyanse.
 
-Ren estaba ahí, sin una gota de sudor, sin un rasguño, con esa expresión de alguien que acababa de despertar en el medio de algo aburrido.
+Los tres se miraron entre ellos.
 
-—Ya está —dijo Ren—. Nadie ganó nada.
+Luego se marcharon.
 
-El líder apretó los puños. Por un momento pareció que continuaría.
-
-Luego miró a sus amigos. Ambos estaban de rodillas, confundidos, humillados.
-
-Se fueron.
-
-Lentamente al principio. Luego más rápido. Como si escaparan de algo que no podían entender.
+Sin mirar atrás.
 
 ---
 
-El chico de primer año estaba completamente congelado.
+El chico de primer año seguía inmóvil.
 
-Bajó la mirada hacia sus propias manos.
+—¡Senpai...!
 
-Todavía estaban temblando.
-
-El otro estudiante le devolvió la mochila.
-
-—Gracias, senpai. ¡Eso fue increíble!
-
-Ren lo miró con la expresión de alguien que acababa de ser atrapado en un delito.
+Ren recogió la mochila del suelo y se la devolvió.
 
 —No viste nada.
 
-—Pero—
+—Pero...
 
 —Nada.
 
-El chico intentó decir algo más, pero Ren ya se había ido.
+Le dio una ligera palmada en el hombro.
 
-Se fue rápido, antes de que empezaran las preguntas.
+Después siguió caminando.
 
-El chico de primer año se quedó ahí, solo en el callejón, preguntándose si lo que vio fue real o si su cerebro había inventado un héroe porque lo necesitaba desesperadamente.
+Como si acabara de esquivar la lluvia.
 
 ---
 
-Ren llegó a la casa de al lado.
+Cuando llegó a casa dejó la mochila sobre la cama.
 
-Aoi estaba en la escalera de entrada, esperando.
+Caminó directamente hacia la ventana.
 
-—¿Por qué haces eso? —preguntó cuando lo vio.
+La abrió.
 
-Estaban en la escalera mientras Miyako preparaba algo adentro.
+Del otro lado, Aoi ya estaba apoyada sobre el marco de la suya.
+
+Parecía que hubiera estado esperándolo.
+
+—¿Por qué haces eso?
+
+Ren levantó la vista.
 
 —¿Eso qué?
 
 —Ganas... y desapareces.
 
-Ren se quedó callado.
+Él guardó silencio.
 
-—Es como si tuvieras que perder para poder ganar —continuó ella—. Como si ganar fuera peligroso.
+—Podrías haberlos dejado en el suelo.
 
-—No es peligroso.
+No lo hiciste.
 
-—Entonces ¿por qué lo haces?
+—No hacía falta.
 
-Ren miró la calle. Los autos pasaban como cualquier otro martes, completamente ajenos a la extraña inquietud que él no lograba sacarse de encima.
+—¿Por qué nunca terminas una pelea?
 
-—Porque si lo hago grande, luego esperan que lo repita.
+Ren apoyó los brazos sobre el marco de la ventana.
 
-Aoi frunció el ceño.
+Miró hacia el pequeño espacio que separaba ambas casas.
 
-—Eso no es una respuesta.
+Era un silencio que Aoi conocía bien.
 
-—¿No?
+—Porque si la termino...
 
-—No.
+esperarán que la siguiente también termine igual.
 
-Ren se recostó en los escalones.
+Ella frunció el ceño.
 
-—Porque si sigo atacando, me convierto en alguien que no quiero ser.
+—Eso sigue sin responder mi pregunta.
 
-Aoi se sentó a su lado.
+Ren sonrió apenas.
 
-—¿Y quién eres ahora?
+—Si sigo atacando cuando ya no hace falta...
 
-—Alguien que termina las cosas antes de que empiecen.
+dejo de defender a alguien.
 
-—Yo lo llamo cargar demasiado solo —murmuró Aoi.
+Empiezo a pelear por mí.
 
-Ren no respondió. Pero sabía que tenía razón.
+Y no quiero convertirme en esa persona.
+
+Aoi permaneció callada.
+
+Después apoyó también los brazos sobre su ventana.
+
+—Yo creo que cargas demasiadas cosas tú solo.
+
+Ren no respondió.
+
+Porque, por desgracia...
+
+Ella tenía razón.
 
 ---
 
-Esa noche, después de que Ren se fue, regresó a su casa.
+Esa noche, Takumi encontró a su hijo entrenando en el patio.
 
-Su padre lo esperaba en el patio.
-
-Takumi lo observó en silencio. No necesitaba preguntar. Ya lo sabía.
+No necesitó preguntar qué había ocurrido.
 
 —Te provocaron.
 
 —Sí.
 
-—Te excediste.
+—¿Te excediste?
 
 —No.
 
-Takumi asintió, como si hubiera confirmado algo importante.
+Takumi asintió lentamente.
 
-—Bien —dijo—. Significa que todavía recuerdas por qué entrenas.
+—Bien.
 
-Ren observó el patio en silencio.
+Eso significa que todavía recuerdas por qué entrenas.
 
-—Lo recordaste —murmuró Takumi, como para sí mismo.
+Ren bajó la mirada.
 
-Luego apoyó una mano en el hombro de su hijo.
+Takumi apoyó una mano sobre su hombro.
 
-—Recuerda: contener no es huir. Pero huir de ti mismo tampoco ayuda.
+—Contener no es lo mismo que reprimir.
 
-Ren miró a su padre a los ojos.
+Y reprimir tampoco es vivir.
+
+Ren permaneció en silencio.
+
+Después habló.
 
 —Yo no termino las peleas.
 
-La frase quedó flotando en el aire de la noche.
+Takumi sonrió apenas.
 
-Takumi sonrió apenas. Fue la única confirmación que necesitaba.
+—Lo sé.
 
-Porque si una pelea necesitaba terminar de verdad, significaba que ya había dejado de controlar quién era.
+Solo procura que, cuando llegue el día en que tengas que hacerlo...
 
-Y ese era un Ren que su padre se aseguraría de que nunca existiera.
+sea porque ya no existía otra opción.
 
 ---
 
-Más tarde, en su habitación, Ren encendió la televisión.
+Más tarde, Ren apagó la televisión después de escuchar otro informe sobre extrañas anomalías cerca de la órbita lunar.
 
-Las noticias mostraban imágenes de observatorios. Científicos con cara de preocupación sentados frente a pantallas llenas de datos.
+La habitación quedó completamente a oscuras.
 
-_"Observatorios en múltiples países reportan anomalías de radiación cuyo origen aún no ha sido determinado. Los expertos sugieren que se requieren más análisis antes de que puedan emitir un comunicado oficial. Por ahora, se recomienda a la población mantener la calma..."_
+Caminó hasta la ventana.
 
-Ren apagó la pantalla.
+Frente a él, la luz del cuarto de Aoi seguía encendida.
 
-Se quedó en la oscuridad, escuchando el silencio de su habitación.
+Ella también estaba despierta.
 
-Mañana habría más noticias.
+Durante toda su vida, aquella luz siempre había significado tranquilidad.
 
-O quizá mañana pasaría algo que haría que todas las noticias de hoy parecieran insignificantes.
+Aquella noche...
 
-No lo sabía.
+No consiguió sentirla.
 
-Y eso era lo más aterrador.
+Levantó lentamente la vista.
 
-Continuará…
+La Luna permanecía inmóvil sobre el cielo nocturno.
+
+Demasiado inmóvil.
+
+Como si estuviera esperando.
+
+Y, por primera vez desde que todo comenzó...
+
+Ren sintió que él también.
+
+**Continuará…**
